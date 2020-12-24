@@ -21,7 +21,7 @@ The pre-trained weight must exist as `weights.h5` in the path where `main.py` is
 ```
 python main.py --img img --out example
 ```
-All of beef images you want to segment must be in the img forder. You can make the predicted mask by running the above command.
+All of beef images you want to segment must be in the img forder. You can make the predicted mask in the out forder by running the above command.
 
 
 ## Model output

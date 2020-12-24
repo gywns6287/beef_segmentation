@@ -27,10 +27,9 @@ All of beef images you want to segment must be in the img forder. You can make t
 ## Model output
 
 1. `Predicted mask`
-
-
+![GP_beef3](https://user-images.githubusercontent.com/71325306/103081514-72dbc980-461b-11eb-843c-cbec28bbdc45.png)
 2. `Painted image`
-
+![pre_beef3](https://user-images.githubusercontent.com/71325306/103081522-74a58d00-461b-11eb-9eb5-a79f1254fdc6.png)
   
 ## Test results
 Model was trained by 8,201 raw beef images,
